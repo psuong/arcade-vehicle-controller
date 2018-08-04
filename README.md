@@ -14,7 +14,7 @@ may use the namespace of my personal project.
 ![preview](/images/hover-car.gif)
 
 # Todos #
-* Set up Git submodule
-* Create project namespace
-* Clean up bootstrappers
-* Remove dependencies from other plugins
+* [] Set up Git submodule
+* [] Create project namespace
+* [] Clean up bootstrappers
+* [x] Remove dependencies from other plugins
