@@ -1,5 +1,11 @@
 # What is this repository for? #
 
+## Update ##
+This repository will be archived and will likely be revisited later this year. I will be looking to integrate these control schemes with 
+Unity's new Havok Physics based infrastructure. The source code is of course free to look for reference and learning. :smiley:
+
+## Archived ##
+
 This repository contains the implementation of an arcade vehicle controller using Unity's Entity 
 Component System. The project is currently extracted from my own personal game I'm working on 
 and because I'm pleased with the results of the controller - I'm deciding to open source it!
@@ -12,9 +18,3 @@ may use the namespace of my personal project.
 
 # Preview #
 ![preview](/images/hover-car.gif)
-
-# Todos #
-* [ ] Set up Git submodule
-* [ ] Create project namespace
-* [ ] Clean up bootstrappers
-* [x] Remove dependencies from other plugins
